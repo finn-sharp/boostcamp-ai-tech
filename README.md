@@ -4,4 +4,4 @@
 - Boostcamp AI Tech 6th - NLP Track
 
 ### Boostcourse Lecture
-- Regular Expressions
+- BOOSTRUN : 파이썬을 이용한 웹 스크래핑 : Regular Expressions
