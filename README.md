@@ -1,4 +1,4 @@
-# boostcourse-python-learning
+# Lecture List
 ---
 ### K-Digital Traning Course
 - Boostcamp AI Tech 6th - NLP Track
